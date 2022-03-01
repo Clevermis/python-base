@@ -1,0 +1,6 @@
+print('hello')
+print("hello")
+print(1+2)
+fp = open('/home/clevermis/桌面/text.txt','a+')
+print('helloword',file=fp)
+print('1','2','3')
